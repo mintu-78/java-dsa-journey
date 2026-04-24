@@ -27,7 +27,7 @@ public class Calculator{
             break;
             case 8: System.out.println("August");
             break;
-            case 9: System.out.println("Septeber"); 
+            case 9: System.out.println("September"); 
             break;
             case 10: System.out.println("October");
             break;
