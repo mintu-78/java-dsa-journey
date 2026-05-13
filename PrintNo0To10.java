@@ -24,11 +24,11 @@ public class PrintNo0To10{
 
         int i = 12;
         while(i < 12){
-            System.out.println("DSA Master");
+            System.out.println("Hello Java");
         }
 
         do{
-            System.out.println("DSA Master");
+            System.out.println("Hello Java");
         } while(i < 11 );
     }
 }
