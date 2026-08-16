@@ -16,5 +16,7 @@ public class GreatestNumber {
                 System.out.println("a is lesser");
             }
         }
+        sc.close();
     }
+    
 }

@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class ZeroOneTringle{
 
     public static void main(String args[]){

@@ -10,6 +10,7 @@ public class PrintEvenNo{
         for(int i = 2; i <=n; i += 2){
             System.out.println(i );
         }
+        sc.close();
 
     }
 }

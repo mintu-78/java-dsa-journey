@@ -20,7 +20,7 @@
 
 
 
-    import java.util.*;
+    
     public class InvertedHalfPyramidby180deg{
 
         public static void main(String args[]){

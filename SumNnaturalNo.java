@@ -13,6 +13,8 @@ public class SumNnaturalNo{
             sum = sum + i;
 
         }
+        sc.close();
         System.out.println(sum);
     }
+    
 }

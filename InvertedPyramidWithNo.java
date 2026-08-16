@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class InvertedPyramidWithNo{
 
     public static void main(String args []){

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class conditions {
+public class Conditions {
 
     public static void main(String args[]){
 
@@ -13,5 +13,6 @@ public class conditions {
         }else{
             System.out.println("odd");
         }
+         sc.close();
     }
 }

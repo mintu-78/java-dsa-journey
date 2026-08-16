@@ -25,8 +25,8 @@ public class GreetingButton{
             break;
             default : System.out.println("Invalid Button");
           }
+          sc.close();
     }
-
 
 
 }

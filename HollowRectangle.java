@@ -1,5 +1,5 @@
-import java.util.*;
-public class HollowRectagle{
+
+public class HollowRectangle{
 
     public static void main(String args[]){
 

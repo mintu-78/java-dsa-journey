@@ -24,7 +24,7 @@ public class Calculator{
             break;
             default: System.out.println("Invalid");
         }
-
+ sc.close();
 
     }
 }

@@ -13,5 +13,6 @@ public class CheckAdult {
          }else{
             System.out.println("Not Adult");
          }
+          sc.close();
     }
 }

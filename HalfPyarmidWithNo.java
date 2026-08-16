@@ -1,4 +1,4 @@
-import java.util.*;
+
  public class HalfPyarmidWithNo{
 
     public static void main(String args[]){

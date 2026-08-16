@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Calculator{
+public class Month{
 
 
     public static void main(String args[]){
@@ -38,8 +38,9 @@ public class Calculator{
             default: System.out.println("Invalid");
         }
 
-
+sc.close();
     }
+    
 
 }
 
