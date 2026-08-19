@@ -14,14 +14,19 @@ public class Variables{
 
      // Variables
 
-     String name  = "Mintu kumar";
-     int age = 20;
-     double price = 25.25;
-     int a = 10;
+    //  String name  = "Mintu kumar";
+    //  int age = 20;
+    //  double price = 25.25;
+    //  int a = 10;
 
 
-     name = "Deepak kumar";
+    //  name = "Deepak kumar";
 
+    int a  = 10;
+    int b  =  25;
+    int sum = a + b;
+
+    System.out.println(sum);
   }
     
 }
