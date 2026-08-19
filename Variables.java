@@ -1,16 +1,26 @@
 public class Variables{
     public static void main (String[] args) {
 
-        // Variables
+    
 
     // System.out.println("Hello World with Java");
     // System.out.print("Hello World with Java\n");
     // System.out.print("Hello World With Java");
 
-    System.out.println("*");
-    System.out.println("**");
-    System.out.println("***");
-    System.out.println("****");
+    // System.out.println("*");
+    // System.out.println("**");
+    // System.out.println("***");
+    // System.out.println("****");
+
+     // Variables
+
+     String name  = "Mintu kumar";
+     int age = 20;
+     double price = 25.25;
+     int a = 10;
+
+
+     name = "Deepak kumar";
 
   }
     
