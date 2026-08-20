@@ -5,14 +5,14 @@ public class Conditions {
     public static void main(String args[]){
 
         Scanner sc = new Scanner(System.in);
-        int x = sc.nextInt();
+        int age = sc.nextInt();
 
-        if(x % 2 == 0){
-            System.out.println("Even");
+    if(age > 18){
+        System.out.println("Adult");
+    }else {
+        System.out.println("Not Adult");
+    }
 
-        }else{
-            System.out.println("odd");
-        }
-         sc.close();
+    sc.close();
     }
 }
