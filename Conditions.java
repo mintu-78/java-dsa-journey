@@ -15,14 +15,31 @@ public class Conditions {
 
     // Example 2 //
 
-    int x = sc.nextInt();
+    // int x = sc.nextInt();
 
-    if(x % 2 == 0){
-        System.out.println("Even");
-    }else{
-        System.out.println("odd");
+    // if(x % 2 == 0){
+    //     System.out.println("Even");
+    // }else{
+    //     System.out.println("odd");
+    // }
+
+    // Example 3 //
+
+    int a = sc.nextInt();
+    int b = sc.nextInt();
+
+    if( a == b){
+        System.out.println("Equal");
+    }else {
+        if (a > b){
+            System.out.println("a is greater ");
+        }else{
+            System.out.println( "a is lesser");
+        }
+        sc.close();
     }
 
-    sc.close();
+    
+    
     }
 }
