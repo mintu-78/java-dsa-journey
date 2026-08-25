@@ -7,8 +7,17 @@ public class PrintNo0To10{
 // for(int counter = 0; counter < 11; counter ++)
 //     System.out.println(counter+" ");
 
-for(int i = 0; i < 11; i++){
-  System.out.println(i);
-}
+// for(int i = 0; i < 11; i++){
+//   System.out.println(i);
+// }
+
+  
+
+   int i = 0;
+   while (i <=10) {
+    System.out.println(i);
+    i++;
+    
+   }
     }
 }
