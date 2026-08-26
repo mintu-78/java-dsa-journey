@@ -7,14 +7,12 @@ public class SumNnaturalNo{
         Scanner sc = new Scanner (System.in);
         int n = sc.nextInt();
 
-        int sum = 0;
-        for(int i=0; i<=n; i++){
-
-            sum = sum + i;
-
-        }
+        int sum  = 0; //sum is a variable 
+         for  (int i = 0; i<=n; i++){
+          sum = sum + i;    
+         }
         sc.close();
-        System.out.println(sum);
+         System.out.println(sum);
     }
     
 }
