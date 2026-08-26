@@ -7,9 +7,9 @@ public class PrintNTable{
         int n = sc.nextInt();
 
 
-        for(int i = 1; i < 11; i++){
-            System.out.println(i*n);
-        }
+    for(int i = 1; i < 11; i++){
+        System.out.println(i*n);
+    }
         sc.close();
     }
 } 
